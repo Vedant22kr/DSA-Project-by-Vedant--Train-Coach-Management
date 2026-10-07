@@ -1,2 +1,26 @@
-# DSA-Project-by-Vedant--Train-Coach-Management
-Train Coach Management System is a DSA project that uses a Singly Linked List to dynamically manage railway coaches. It allows users to add, remove, search, and display coaches along with their coach number and type. The project demonstrates linked-list traversal, insertion, deletion, pointers, and dynamic memory allocation.
+# Train Coach Management System
+
+## 📌 Project Overview
+A C++ based Train Coach Management System implemented using a
+Singly Linked List.
+
+## 📂 Project Contents
+
+- [Code](01_Code/)
+- [Problem Statement](02_Problem_Statement/)
+- [Objectives](03_Objectives/)
+- [Algorithm](04_Algorithm/)
+- [Flowchart](05_Flowchart/)
+- [Output](06_Output/)
+- [Documentation](07_Documentation/)
+- [Presentation](08_Presentation/)
+
+## 🛠 Technologies Used
+
+- C++
+- Data Structures
+- Singly Linked List
+- Dev-C++ / Visual Studio Code
+
+## 👨‍💻 Project
+Train Coach Management System
