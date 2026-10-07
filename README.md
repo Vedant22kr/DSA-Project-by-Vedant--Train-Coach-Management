@@ -7,10 +7,10 @@ Singly Linked List.
 ## 📂 Project Contents
 
 - [Code](01_Code/main.cpp/)
-- [Problem Statement](02_Problem_Statement/)
-- [Objectives](03_Objectives/)
-- [Algorithm](04_Algorithm/)
-- [Flowchart](05_Flowchart/)
+- [Problem Statement](02_Problem_Statement/problem-statement.md/)
+- [Objectives](03_Objectives/objectives.md/)
+- [Algorithm](04_Algorithm/algorithm.md/)
+- [Flowchart](05_Flowchart/flowchart.png/)
 - [Output](06_Output/)
 
 
