@@ -6,7 +6,7 @@ Singly Linked List.
 
 ## 📂 Project Contents
 
-- [Code](01_Code/)
+- [Code](01_Code/main.cpp/)
 - [Problem Statement](02_Problem_Statement/)
 - [Objectives](03_Objectives/)
 - [Algorithm](04_Algorithm/)
