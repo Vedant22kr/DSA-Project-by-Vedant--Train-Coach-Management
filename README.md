@@ -10,7 +10,7 @@ Singly Linked List.
 - [Problem Statement](02_Problem_Statement/)
 - [Objectives](03_Objectives/)
 - [Algorithm](04_Algorithm/)
-- [Flowchart](Train Coach Management Flowchart.png)
+- [Flowchart](Train_Coach_Management_Flowchart.png/)
 - [Output](06_Output/)
 
 
