@@ -12,6 +12,7 @@ Singly Linked List.
 - [Algorithm](04_Algorithm/algorithm.md/)
 - [Flowchart](05_Flowchart/flowchart.png/)
 - [Output](06_Output/)
+- [Documentation](07_Documentation/)
 
 
 ## 🛠 Technologies Used
